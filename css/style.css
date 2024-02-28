@@ -120,7 +120,7 @@ hr{
     width: 70%;
 }
 .div-2-img{
-    width: 85%;
+    width:80%;
 }
 .div-1-a{
     display: flex;
@@ -148,11 +148,11 @@ hr{
     text-decoration: underline;
 }
 .btm{
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 .Services-ul{
     display: flex;
-    gap: 48px;
+    gap: 16px;
 }
 .Services-li{
     display: flex;
@@ -166,6 +166,6 @@ hr{
 }
 .Services-p{
     color: var(--white);
-    font-size: 18px;
-    font-weight: 300;
+    font-size: 15px;
+    font-weight: 600;
 }
